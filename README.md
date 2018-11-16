@@ -2,6 +2,8 @@
 This repo is part of my submission for assignment 4 of the course 'Getting and Cleaning Data' from Coursera.
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
 
+The assignment was to be completed with a particular data set collected from the accelorometers from the Samsung Galaxy S smartphone.
+
 
 ### The assignment
 * Download and unzip the file containing the data.
