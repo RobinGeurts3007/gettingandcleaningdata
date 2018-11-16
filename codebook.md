@@ -1,6 +1,6 @@
 # Code book
 
-The R script 'run_analysis.R' creates the output named 'tidydata.txt'. This is a data set, consisting of 180 rows and 68 columns. Each row describes the average mean and standard deviation across multiple variables, over a specific activty and subject.
+The R script 'run_analysis.R' creates output named 'tidydata.txt'. This is a data set consisting of 180 rows and 68 columns. Each row describes the average mean and standard deviation across multiple variables, over a specific activty and subject.
 
 ### subject
 This column indicates the subject. A subject is identified by an integer, ranging from 1 to 30.
