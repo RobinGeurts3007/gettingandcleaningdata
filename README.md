@@ -1,4 +1,4 @@
-#Getting and Cleaning Data
+# Getting and Cleaning Data
 This repo is part of my submission for assignment 4 of the course 'Getting and Cleaning Data' from Coursera.
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
 
